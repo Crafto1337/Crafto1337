@@ -9,7 +9,7 @@ Talking of 3D and Blender, in 2020 I started making my own 3D renders, which at 
 
 <details open>
 <summary><h2>🕊️ Pidgeon Tools</h2></summary>
-Here you can find the projects I am working on together with [@Pidgeon Tools](https://github.com/PidgeonTools).
+Here you can find the projects I am working on together with <a href="https://github.com/PidgeonTools">@Pidgeon Tools</a> .
 
 <details open>
 <summary><h3>👨‍🌾 Pidgeon Render Farm</h3></summary>
